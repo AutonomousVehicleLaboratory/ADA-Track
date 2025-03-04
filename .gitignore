@@ -129,3 +129,6 @@ exps/
 *.pth
 
 workspace.code-workspace
+
+# results
+results
